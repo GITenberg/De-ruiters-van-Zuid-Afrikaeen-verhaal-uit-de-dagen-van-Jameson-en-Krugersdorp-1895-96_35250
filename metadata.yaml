@@ -1,0 +1,39 @@
+_repo: De-ruiters-van-Zuid-Afrikaeen-verhaal-uit-de-dagen-van-Jameson-en-Krugersdorp-1895-96_35250
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Steelink, Wilm. (Willem)
+    alias: Steelink, Willem
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '37562'
+    url: http://www.gutenberg.org/2009/agents/37562
+covers:
+- cover_type: archival
+  image_path: 35250-h/images/cover-l.jpg
+creator:
+  author:
+    agent_name: Penning, L. (Louwrens)
+    aliases:
+    - Penning, Lawrence
+    - Penning, Louwrens
+    birthdate: 1854
+    deathdate: 1927
+    gutenberg_agent_id: '37561'
+    url: http://www.gutenberg.org/2009/agents/37561
+description: ''
+gutenberg_issued: '2011-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35250'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'South African War, 1899-1902 -- Fiction'
+title: 'De ruiters van Zuid-Afrika
+
+  een verhaal uit de dagen van Jameson en Krugersdorp 1895-96'
+url: http://www.gutenberg.org/ebooks/35250
